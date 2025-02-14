@@ -6,21 +6,20 @@ Recuerden que nunca se termina de aprender a programar es un proceso de aprendiz
 den los acercará más a convertirse en grandes programadores.
 
 ## Equipo #(Numero) 
-(Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
+Cristian Rafael Gonzalez Jimenez
 
-(No. Cuenta 1)
+316196299
 
-(Correo1)
+rafita@ciencias.unam.mx
 
-(Nombre2) (ApellidoPaterno2) (ApellidoMaterno2)
+leonardo rodrigo tintos fabela
 
-(No. Cuenta 2)
+321003409
 
-(Correo2)
+leo.tintos@ciencias.unam.mx
 
 ## Instrucciones
-(Escribe las instrucciones de ejecución aquí)
-
+codigo que se hizo para contar k veces a traves de terminal.
 ## Comentarios
 1. Puedes utilizar todo lo revisado hasta el momento.
 2. Es importante que comentes tú código en formato javadoc.
